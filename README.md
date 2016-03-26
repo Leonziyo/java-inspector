@@ -19,7 +19,7 @@ This library project for Android allows you to inspect and modify objects at run
 This project is meant to be used in conjunction with a Node js app which provides the UI. Don't worry it all is very simple and fast to do.
 
 - Install [Node JS](https://nodejs.org/en/), the website is very self explanatory.
-- Downlaod or check out my Node JS app in this repo [xxxxxx]().
+- Downlaod or check out my [Node JS app](https://github.com/Leonziyo/java-inspector-nodeapp).
 - After that is just as easy as opening the terminal and running:
 
 ```
@@ -32,7 +32,7 @@ Now back to the Android project. You need to add the dependecy to your gradle fi
 ```
 dependencies {
     ...
-    compile 'com.github.leonziyo:java-inspector:d12eaeecd7858f41b079908619a4992dd0dca811'
+    compile 'com.github.leonziyo:java-inspector:v0.1'
 }
 ```
 
